@@ -1,0 +1,9 @@
+Calculator	KEYWORD1
+getFormat	KEYWORD2
+getPrior	KEYWORD2
+getPostfix	KEYWORD2
+calResult	KEYWORD2
+calculate	KEYWORD2
+getResult	KEYWORD2
+operatorSym	LITERAL1
+infix	LITERAL1
